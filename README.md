@@ -1,7 +1,7 @@
 ### Olá, sou Eric 👋🏻
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricLdj&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricLdJ&show_icons=true&theme=dark)
 
 ### 🔙🔚 Tecnologias:
 
