@@ -11,6 +11,6 @@
     <img aligne="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/>
 
-### 💼 Gostaria de participar da causa dos avanços de sua empresa. Entre em contato!
+### 💼 Gostaria de participar dos avanços de sua empresa. Entre em contato!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-jesus-580525248/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericlj333@gmail.com)
