@@ -7,7 +7,6 @@
 
 <div style ="display: inline_block"><br/>
     <img aligne="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img aligne="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
 
 ### 💼 Gostaria de participar dos avanços de sua empresa. Entre em contato!
